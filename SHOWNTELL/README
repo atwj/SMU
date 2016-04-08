@@ -1,6 +1,9 @@
-README
+This are the codes that I used for my algorithms class Show-and-tell where I compared the performance between Binary Search and Interpolation Search.
 
 All material here are for educational purposes only.
 Credits to Ryan McKennar of ECE/CIS, University Of Delaware
 for his work from which he had provided an implementation of the modified version
 of the interpolation search.
+
+https://www.eecis.udel.edu/~mckennar/blog/interpolation-search
+
