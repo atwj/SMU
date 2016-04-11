@@ -1,0 +1,79 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Smua:war exploded">
+    <output-path>$PROJECT_DIR$/target/ROOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Smua" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: local:antlr-2.7.7:1.0" />
+          <element id="library" level="project" name="Maven: local:aopalliance-1.0:1.0" />
+          <element id="library" level="project" name="Maven: local:aspectjrt-1.8.6:1.0" />
+          <element id="library" level="project" name="Maven: local:aspectjweaver-1.8.6:1.0" />
+          <element id="library" level="project" name="Maven: local:classmate-1.0.0:1.0" />
+          <element id="library" level="project" name="Maven: local:dom4j-1.6.1:1.0" />
+          <element id="library" level="project" name="Maven: local:hibernate-commons-annotations-4.0.5.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:hibernate-core-4.3.10.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:hibernate-entitymanager-4.3.10.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:hibernate-jpa-2.1-api-1.0.0.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:hibernate-validator-5.1.3.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:is203-jwt-v2-2:1.0" />
+          <element id="library" level="project" name="Maven: local:jackson-annotations-2.4.6:1.0" />
+          <element id="library" level="project" name="Maven: local:jackson-core-2.4.6:1.0" />
+          <element id="library" level="project" name="Maven: local:jackson-databind-2.4.6:1.0" />
+          <element id="library" level="project" name="Maven: local:jandex-1.1.0.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:javassist-3.18.1-GA:1.0" />
+          <element id="library" level="project" name="Maven: local:javax.transaction-api-1.2:1.0" />
+          <element id="library" level="project" name="Maven: local:jboss-logging-3.1.3.GA:1.0" />
+          <element id="library" level="project" name="Maven: local:jboss-logging-annotations-1.2.0.Beta1:1.0" />
+          <element id="library" level="project" name="Maven: local:jcl-over-slf4j-1.7.12:1.0" />
+          <element id="library" level="project" name="Maven: local:json-smart-1.2-2:1.0" />
+          <element id="library" level="project" name="Maven: local:jul-to-slf4j-1.7.12:1.0" />
+          <element id="library" level="project" name="Maven: local:log4j-over-slf4j-1.7.12:1.0" />
+          <element id="library" level="project" name="Maven: local:logback-classic-1.1.3:1.0" />
+          <element id="library" level="project" name="Maven: local:logback-core-1.1.3:1.0" />
+          <element id="library" level="project" name="Maven: local:mysql-connector-java-5.1.35:1.0" />
+          <element id="library" level="project" name="Maven: local:nimbus-jose-jwt-2.26.1-2:1.0" />
+          <element id="library" level="project" name="Maven: local:ognl-3.0.8:1.0" />
+          <element id="library" level="project" name="Maven: local:opencsv-2.4:1.0" />
+          <element id="library" level="project" name="Maven: local:slf4j-api-1.7.12:1.0" />
+          <element id="library" level="project" name="Maven: local:snakeyaml-1.14:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-aop-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-aspects-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-beans-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-autoconfigure-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-maven-plugin-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-aop-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-data-jpa-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-jdbc-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-logging-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-web-1.2.5.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-context-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-core-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-data-commons-1.9.3.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-data-jpa-1.7.3.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-expression-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-jdbc-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-orm-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-tx-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-web-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-webmvc-4.1.7.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:tomcat-jdbc-8.0.23:1.0" />
+          <element id="library" level="project" name="Maven: local:tomcat-juli-8.0.23:1.0" />
+          <element id="library" level="project" name="Maven: local:unbescape-1.1.0.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: local:validation-api-1.1.0.Final:1.0" />
+          <element id="library" level="project" name="Maven: local:xml-apis-1.0.b2:1.0" />
+          <element id="library" level="project" name="Maven: local:jstl-1.2:1.0" />
+          <element id="library" level="project" name="Maven: local:spring-boot-starter-actuator-1.2.6.RELEASE:1.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/ROOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="Smua/web/Web" />
+    </root>
+  </artifact>
+</component>

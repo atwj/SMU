@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: local:mysql-connector-java-5.1.35:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/local/mysql-connector-java-5.1.35/1.0/mysql-connector-java-5.1.35-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/local/mysql-connector-java-5.1.35/1.0/mysql-connector-java-5.1.35-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/local/mysql-connector-java-5.1.35/1.0/mysql-connector-java-5.1.35-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

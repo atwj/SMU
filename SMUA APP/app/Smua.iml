@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="context.xml" url="file://$MODULE_DIR$/src/main/webapp/META-INF/context.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: local:antlr-2.7.7:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:aopalliance-1.0:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:aspectjrt-1.8.6:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:aspectjweaver-1.8.6:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:classmate-1.0.0:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:dom4j-1.6.1:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:hibernate-commons-annotations-4.0.5.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:hibernate-core-4.3.10.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:hibernate-entitymanager-4.3.10.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:hibernate-jpa-2.1-api-1.0.0.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:hibernate-validator-5.1.3.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:is203-jwt-v2-2:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jackson-annotations-2.4.6:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jackson-core-2.4.6:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jackson-databind-2.4.6:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jandex-1.1.0.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:javassist-3.18.1-GA:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:javax.transaction-api-1.2:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jboss-logging-3.1.3.GA:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jboss-logging-annotations-1.2.0.Beta1:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jcl-over-slf4j-1.7.12:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:json-smart-1.2-2:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jul-to-slf4j-1.7.12:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:log4j-over-slf4j-1.7.12:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:logback-classic-1.1.3:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:logback-core-1.1.3:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:mysql-connector-java-5.1.35:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:nimbus-jose-jwt-2.26.1-2:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:ognl-3.0.8:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:opencsv-2.4:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:slf4j-api-1.7.12:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:snakeyaml-1.14:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-aop-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-aspects-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-beans-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-autoconfigure-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-maven-plugin-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-aop-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-data-jpa-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-jdbc-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-logging-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-web-1.2.5.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-context-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-core-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-data-commons-1.9.3.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-data-jpa-1.7.3.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-expression-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-jdbc-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-orm-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-tx-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-web-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-webmvc-4.1.7.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:tomcat-jdbc-8.0.23:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:tomcat-juli-8.0.23:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:unbescape-1.1.0.RELEASE:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:validation-api-1.1.0.Final:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:xml-apis-1.0.b2:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:jstl-1.2:1.0" level="project" />
+    <orderEntry type="library" name="Maven: local:spring-boot-starter-actuator-1.2.6.RELEASE:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.2.5.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.0.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.0.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.0.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.0.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.0.23" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.4.2" level="project" />
+  </component>
+</module>
