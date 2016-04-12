@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-logging-annotations-1.2.0.Beta1-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/jboss-logging-annotations-1.2.0.Beta1/1.0/jboss-logging-annotations-1.2.0.Beta1-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

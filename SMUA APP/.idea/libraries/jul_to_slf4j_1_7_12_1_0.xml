@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jul-to-slf4j-1.7.12-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/jul-to-slf4j-1.7.12/1.0/jul-to-slf4j-1.7.12-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -5,15 +5,10 @@
  */
 package smua.models.Entities;
 
-import java.io.Serializable;
-import java.util.Date;
-import javax.persistence.EmbeddedId;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.OneToOne;
-import javax.persistence.Table;
 import smua.models.PK.LocationPK;
+
+import javax.persistence.*;
+import java.io.Serializable;
 
 /**
  *

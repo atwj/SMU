@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thymeleaf-layout-dialect-1.2.9-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/thymeleaf-layout-dialect-1.2.9/1.0/thymeleaf-layout-dialect-1.2.9-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

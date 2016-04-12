@@ -5,13 +5,10 @@
  */
 package smua.models.Entities;
 
-import java.io.Serializable;
-import javax.persistence.EmbeddedId;
-import javax.persistence.Entity;
-import javax.persistence.JoinColumn;
-import javax.persistence.OneToOne;
-import javax.persistence.Table;
 import smua.models.PK.AppPK;
+
+import javax.persistence.*;
+import java.io.Serializable;
 
 /**
  *

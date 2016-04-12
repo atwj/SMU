@@ -5,43 +5,25 @@
  */
 package smua.routes;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.TreeMap;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.multipart.MultipartFile;
-import smua.controllers.AdvancedSmartphoneOveruseController;
-import smua.controllers.BasicAppController;
-import smua.controllers.BootstrapController;
-import smua.controllers.LoginController;
-import smua.controllers.SmartphoneOveruseController;
-import smua.controllers.TopKController;
-import smua.models.Entities.Demographic;
-import smua.models.JSON.BasicAppUsage;
-import smua.models.JSON.BootstrapError;
-import smua.models.JSON.SmartphoneOveruse;
-import smua.models.JSON.TopKApp;
-import smua.models.JSON.TopKSchool;
-import smua.models.JSON.TopKStudent;
-import smua.controllers.HeatmapController;
-import smua.controllers.SocialActivenessController;
+import smua.controllers.*;
 import smua.models.DAO.DemographicDAO;
 import smua.models.DAO.LocationDAO;
 import smua.models.DAO.LocationLookupDAO;
+import smua.models.Entities.Demographic;
 import smua.models.Entities.LocationLookup;
-import smua.models.JSON.UsageHeatmap;
+import smua.models.JSON.*;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 /**
  *

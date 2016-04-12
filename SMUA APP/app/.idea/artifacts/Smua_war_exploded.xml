@@ -68,6 +68,11 @@
           <element id="library" level="project" name="Maven: local:xml-apis-1.0.b2:1.0" />
           <element id="library" level="project" name="Maven: local:jstl-1.2:1.0" />
           <element id="library" level="project" name="Maven: local:spring-boot-starter-actuator-1.2.6.RELEASE:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.0.23" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.0.23" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.0.23" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.0.23" />
         </element>
       </element>
       <element id="directory" name="META-INF">

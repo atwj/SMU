@@ -5,16 +5,17 @@
  */
 package smua.controllers;
 
-import java.util.Date;
-import java.util.GregorianCalendar;
-import java.util.HashMap;
-import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import smua.models.DAO.AppDAO;
 import smua.models.DAO.DemographicDAO;
 import smua.models.Entities.App;
 import smua.models.JSON.SmartphoneOveruse;
+
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.HashMap;
+import java.util.List;
 
 /**
  *

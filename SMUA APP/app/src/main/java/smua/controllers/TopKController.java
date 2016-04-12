@@ -5,16 +5,6 @@
  */
 package smua.controllers;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Date;
-import java.util.GregorianCalendar;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.TreeMap;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import smua.models.DAO.AppDAO;
@@ -26,6 +16,8 @@ import smua.models.Entities.Demographic;
 import smua.models.JSON.TopKApp;
 import smua.models.JSON.TopKSchool;
 import smua.models.JSON.TopKStudent;
+
+import java.util.*;
 
 /**
  *

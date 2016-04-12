@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="unbescape-1.1.0.RELEASE-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/unbescape-1.1.0.RELEASE/1.0/unbescape-1.1.0.RELEASE-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

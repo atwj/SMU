@@ -4,11 +4,8 @@
     Author     : shtang.2014
 --%>
 
-<%@page import="java.util.HashMap"%>
 <%@page import="smua.models.JSON.SmartphoneOveruse"%>
-<%@page import="smua.models.Entities.App"%>
-<%@page import="java.util.List"%>
-<%@page import="smua.models.Entities.Demographic"%>
+<%@page import="java.util.HashMap"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

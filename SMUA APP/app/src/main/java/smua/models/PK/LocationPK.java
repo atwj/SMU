@@ -5,9 +5,9 @@
  */
 package smua.models.PK;
 
+import javax.persistence.Embeddable;
 import java.io.Serializable;
 import java.util.Date;
-import javax.persistence.Embeddable;
 
 /**
  *

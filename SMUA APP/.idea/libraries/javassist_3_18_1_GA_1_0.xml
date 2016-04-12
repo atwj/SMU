@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javassist-3.18.1-GA-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/javassist-3.18.1-GA/1.0/javassist-3.18.1-GA-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

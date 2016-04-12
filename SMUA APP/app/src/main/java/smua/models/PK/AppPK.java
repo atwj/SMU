@@ -5,12 +5,13 @@
  */
 package smua.models.PK;
 
-import java.io.Serializable;
-import java.util.Date;
+import smua.models.Entities.Demographic;
+
 import javax.persistence.Embeddable;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
-import smua.models.Entities.Demographic;
+import java.io.Serializable;
+import java.util.Date;
 
 /**
  *

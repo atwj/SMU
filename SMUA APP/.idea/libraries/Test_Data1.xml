@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Test Data1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 3/Test Data/Social_Act_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 3/Test Data/Social_Act3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 3/Test Data/Test.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 3/Test Data/SocialActiveness.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 3/Test Data/Social_Act_2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -5,26 +5,16 @@
  */
 package smua.controllers;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Date;
-import java.util.GregorianCalendar;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.TreeMap;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import smua.models.DAO.AppDAO;
 import smua.models.DAO.LocationDAO;
 import smua.models.Entities.App;
 import smua.models.Entities.Location;
-import smua.models.Entities.LocationLookup;
-import smua.util.Entities.TimeObject;
 import smua.models.PK.LocationPK;
+import smua.util.Entities.TimeObject;
+
+import java.util.*;
 
 /**
  * 

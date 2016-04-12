@@ -4,14 +4,11 @@
     Author     : shtang.2014
 --%>
 
-<%@page import="java.util.Collections"%>
 <%@page import="smua.models.JSON.TopKApp"%>
 <%@page import="java.util.ArrayList"%>
-<%@page import="java.util.Iterator"%>
-<%@page import="java.util.Set"%>
+<%@page import="java.util.Collections"%>
 <%@page import="java.util.HashMap"%>
-<%@page import="smua.models.Entities.App"%>
-<%@page import="java.util.List"%>
+<%@page import="java.util.Iterator"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

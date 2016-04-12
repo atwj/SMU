@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-security-core-4.0.2.RELEASE-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/spring-security-core-4.0.2.RELEASE/1.0/spring-security-core-4.0.2.RELEASE-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.transaction-api-1.2-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/javax.transaction-api-1.2/1.0/javax.transaction-api-1.2-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

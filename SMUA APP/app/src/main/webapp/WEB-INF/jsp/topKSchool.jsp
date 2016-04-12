@@ -4,14 +4,10 @@
     Author     : shtang.2014
 --%>
 
-<%@page import="java.text.ParseException"%>
-<%@page import="java.util.Date"%>
-<%@page import="java.text.SimpleDateFormat"%>
 <%@page import="smua.models.JSON.TopKSchool"%>
 <%@page import="java.util.ArrayList"%>
-<%@page import="java.util.LinkedHashMap"%>
-<%@page import="java.util.Iterator"%>
 <%@page import="java.util.HashMap"%>
+<%@page import="java.util.Iterator"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

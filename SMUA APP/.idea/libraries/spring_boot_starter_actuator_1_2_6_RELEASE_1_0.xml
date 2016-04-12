@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-starter-actuator-1.2.6.RELEASE-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/spring-boot-starter-actuator-1.2.6.RELEASE/1.0/spring-boot-starter-actuator-1.2.6.RELEASE-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

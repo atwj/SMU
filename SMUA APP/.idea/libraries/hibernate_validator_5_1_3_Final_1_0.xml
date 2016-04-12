@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-validator-5.1.3.Final-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/hibernate-validator-5.1.3.Final/1.0/hibernate-validator-5.1.3.Final-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

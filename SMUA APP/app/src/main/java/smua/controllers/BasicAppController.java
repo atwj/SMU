@@ -5,19 +5,19 @@
  */
 package smua.controllers;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import smua.models.DAO.AppDAO;
 import smua.models.DAO.AppLookupDAO;
 import smua.models.DAO.DemographicDAO;
 import smua.models.Entities.App;
-import smua.models.Entities.AppLookup;
 import smua.models.Entities.Demographic;
 import smua.models.JSON.BasicAppUsage;
 import smua.models.PK.AppPK;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 /**
  *

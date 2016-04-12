@@ -5,9 +5,6 @@
 --%>
 
 <%@page import="java.util.Map"%>
-<%@page import="java.util.Iterator"%>
-<%@page import="smua.models.JSON.UsageHeatmap"%>
-<%@page import="java.util.List"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

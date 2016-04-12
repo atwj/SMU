@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="uat-data-2015">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-add-data3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-add-data2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-bootstrap-data1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-bootstrap-data4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-bootstrap-data3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-add-loc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-add-data1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-bootstrap-data2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-del-loc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/testing/Iteration 6/uat-data-2015/uat-data1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

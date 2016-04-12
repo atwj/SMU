@@ -4,11 +4,11 @@
     Author     : famous
 --%>
 
+<%@page import="smua.models.JSON.BasicAppUsage"%>
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.util.HashMap"%>
 <%@page import="java.util.LinkedHashMap"%>
 <%@page import="java.util.List"%>
-<%@page import="smua.models.JSON.BasicAppUsage"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

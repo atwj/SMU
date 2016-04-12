@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thymeleaf-spring4-2.1.4.RELEASE-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/web/WEB-INF/repo/local/thymeleaf-spring4-2.1.4.RELEASE/1.0/thymeleaf-spring4-2.1.4.RELEASE-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
